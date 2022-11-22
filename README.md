@@ -1,4 +1,4 @@
-![Screenshot](Screen Shot 2022-11-22 at 10.27.30 AM.png">
+![Screenshot](https://raw.githubusercontent.com/Knowak24/class-roster-api/main/Screen%20Shot%202022-11-22%20at%2010.27.30%20AM.png">
 )
 # Class Roster via our API data
 Keaton Nowak
