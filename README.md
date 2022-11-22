@@ -1,4 +1,5 @@
-![Screenshot]()
+![Screenshot](<img width="414" alt="Screen Shot 2022-11-22 at 10 24 20 AM" src="https://user-images.githubusercontent.com/103390922/203392256-ea4ebe25-a6f3-48a9-98b8-f2bf669ccb90.png">
+)
 # Class Roster via our API data
 Keaton Nowak
 Web 3 Class Roster
