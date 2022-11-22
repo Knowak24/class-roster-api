@@ -1,3 +1,4 @@
+![Screenshot]()
 # Class Roster via our API data
 Keaton Nowak
 Web 3 Class Roster
