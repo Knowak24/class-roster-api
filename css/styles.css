@@ -1,1 +1,16 @@
 /* My Styles */
+.gallery{
+    display:flex;
+    flex-flow: row wrap;
+ 
+}
+body{
+    background: lightgrey;
+}
+figcaption{
+    font-size: 30px;
+}
+img{
+    max-width: 200px;
+    max-height: 200px;
+}
